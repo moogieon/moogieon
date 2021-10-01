@@ -2,11 +2,11 @@
 ##
   <div align=center>
   
-📄 [이력서](https://wistful-search-692.notion.site/2f8f82d484674fe3ba750dafee091d06) / [Resume](https://wistful-search-692.notion.site/2f8f82d484674fe3ba750dafee091d06)
+📄 [이력서](https://puffy-condor-c47.notion.site/f05019df744e4e448c4490e6c20f7301) / [Resume](https://puffy-condor-c47.notion.site/f05019df744e4e448c4490e6c20f7301)
  
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@blissful-y0)](https://velog.io/@moogieon) 
 
-![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:blissful.vzlzydn5007@gmail.com)
+![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=vzlzydn5007@gmail.com)
 
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
