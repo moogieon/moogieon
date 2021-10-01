@@ -22,9 +22,9 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=flat-square&logo=apollo-graphql)
   
-and, yes, of course I love
 
-![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
+
+👀 ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
 
  
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=moogieon&theme=github_dark)
