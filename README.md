@@ -2,9 +2,9 @@
 ##
   <div align=center>
   
-📄 [이력서](https://puffy-condor-c47.notion.site/f05019df744e4e448c4490e6c20f7301) / [Resume](https://puffy-condor-c47.notion.site/f05019df744e4e448c4490e6c20f7301](https://moogieon.notion.site/4e6c84fe1873498e95741b30b212d6e1?pvs=4)
+📄 [이력서](https://puffy-condor-c47.notion.site/f05019df744e4e448c4490e6c20f7301) 
  
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@blissful-y0)](https://velog.io/@moogieon](https://moogieon.github.io/) 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@blissful-y0)](https://moogieon.github.io/) 
 
 ![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=vzlzydn5007@gmail.com)
 
