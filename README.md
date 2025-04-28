@@ -2,7 +2,9 @@
 ##
   <div align=center>
   
-[![Resume](https://img.shields.io/badge/이력서-blue?style=for-the-badge&logo=readthedocs&logoColor=white)](https://moogieon.notion.site/4e6c84fe1873498e95741b30b212d6e1?pvs=4)
+[![View My Resume](https://img.shields.io/badge/View%20My%20Resume-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://moogieon.notion.site/4e6c84fe1873498e95741b30b212d6e1?pvs=4)
+
+<sub>Last Updated: 2025.01</sub>
 
  
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@blissful-y0)](https://moogieon.github.io/) 
