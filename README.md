@@ -6,8 +6,6 @@
  
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@blissful-y0)](https://moogieon.github.io/) 
 
-![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=vzlzydn5007@gmail.com)
-
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -24,7 +22,7 @@
   
 
 
-👀 ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
+👀 [![Steam](https://img.shields.io/badge/Steam-프로필명-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/네스팀아이디)
 
  
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=moogieon&theme=github_dark)
