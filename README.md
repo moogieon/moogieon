@@ -1,4 +1,4 @@
-![wave](https://capsule-render.vercel.app/api?type=Waving&color=black&height=200&text=Hi%20there&fontColor=58a6ff)
+![wave](https://capsule-render.vercel.app/api?type=Waving&color=black&height=200&text=Hello%20there&fontColor=58a6ff)
 ##
   <div align=center>
   
