@@ -2,7 +2,8 @@
 ##
   <div align=center>
   
-📄 [이력서](https://moogieon.notion.site/4e6c84fe1873498e95741b30b212d6e1?pvs=4) 
+[![Resume](https://img.shields.io/badge/이력서-blue?style=for-the-badge&logo=readthedocs&logoColor=white)](https://moogieon.notion.site/4e6c84fe1873498e95741b30b212d6e1?pvs=4)
+
  
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@blissful-y0)](https://moogieon.github.io/) 
 
