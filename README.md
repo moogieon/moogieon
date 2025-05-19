@@ -5,7 +5,7 @@
 <sub>Last Updated: 2025.01</sub>
 
  
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@blissful-y0)](https://moogieon.github.io/) 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blog&link=https://velog.io/@blissful-y0)]([https://moogieon.github.io](https://moogieon-blog.vercel.app/)/) 
 
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
